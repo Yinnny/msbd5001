@@ -11,4 +11,4 @@ from collections import Counter
 import xgboost as xgb
 from sklearn.ensemble import RandomForestClassifier
 # Run:
-Both submissions are based on the same model with different parameters, directly run 999.py to get the result
+Both submissions are based on the same model with different parameters, directly run train.py to get the result
